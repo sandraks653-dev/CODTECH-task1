@@ -1,5 +1,5 @@
 # CODTECH Task 1 - Sales Trend Visualization
-
+#INTERNID CITS1528
 ## Objective
 The objective of this project is to analyze retail sales data and identify monthly sales trends using data visualization techniques.
 
